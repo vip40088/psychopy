@@ -125,3 +125,6 @@ uninstallFiles.nsi
 /venv*/
 /.venv*/
 !psychopy
+.env
+.env.*
+!.env.example
